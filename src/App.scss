@@ -1,0 +1,30 @@
+html, body, #root {
+    width: 100%;
+    background-color: #2E2D30;
+    color: #EBEBEB;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#App {
+    width: 100%;
+    margin: 0 auto 100px 0;
+    text-align: center;
+    & > .MuiFormControl-root {
+        width: 225px !important;
+    }
+}
+
+#credits {
+    font-size: 11pt;
+    color: #aaa;
+    position: absolute;
+    bottom: 30px;
+    width: 100%;
+    text-align: center;
+    & a {
+        text-decoration: none;
+        cursor: pointer;
+        color: #1FB446;
+    }
+}

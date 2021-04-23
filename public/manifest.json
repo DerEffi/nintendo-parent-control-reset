@@ -1,0 +1,9 @@
+{
+  "short_name": "Parental Control Reset",
+  "name": "Nintendo Wii / DSI - Parental Control Reset",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1FB446",
+  "background_color": "#2E2D30"
+}
